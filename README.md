@@ -1,0 +1,1 @@
+All reference material was pulled from the edX classroom coursework "Lesson 19: Unsupervised Learning"
